@@ -1,0 +1,12 @@
+Package: xyz.skylarmccauley.speedtest-cli
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: TheHacker
+Depends: wget, python3.7
+Section: Utilities
+Homepage: https://skylarmccauley.xyz/
+Description: CLI-based speedtest ported to iOS
+Author: TheHacker
+Depiction: http://apt.skylarmccauley.xyz/depic/xyz.skylarmccauley.speedtest-cli/
+Name: speedtest-cli
+Sileodepiction: https://apt.skylarmccauley.xyz/depic/xyz.skylarmccauley.speedtest-cli/sileo.json
