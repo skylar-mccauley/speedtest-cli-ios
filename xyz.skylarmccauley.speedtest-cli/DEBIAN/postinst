@@ -5,3 +5,6 @@ wget -O speedtest.py https://raw.githubusercontent.com/sivel/speedtest-cli/maste
 mv speedtest.py /usr/lib/speedtest-cli/
 
 chmod a+x /usr/bin/speedtest-cli
+
+ln -s /usr/bin/speedtest-cli /usr/bin/speedtest
+chmod a+x /usr/bin/speedtest
